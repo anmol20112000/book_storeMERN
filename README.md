@@ -149,5 +149,5 @@ npm start
 
 ## 👨‍💻 Author
 
-**Your Name** – Full-Stack Developer
+**Anmol Singh** – Full-Stack Developer
 
